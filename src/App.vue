@@ -27,11 +27,11 @@ export default {
 
 <style>
   body {
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 100vh;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    height: 100vh !important;
   }
 
   .fade-enter-active, .fade-leave-active {
