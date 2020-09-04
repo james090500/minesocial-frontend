@@ -20,7 +20,7 @@
     "vue-axios": "^2.1.4",
     "vue-cookies": "^1.5.13",
     "vue-linkify": "^1.0.1",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-router": "^3.0.3",
     "vue-scrollmonitor": "^0.1.0",
     "vuejs-jwt": "^1.1.0"
